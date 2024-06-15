@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NEW BALL GAME2/1.0.0": {
+        "runtime": {
+          "NEW BALL GAME2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NEW BALL GAME2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

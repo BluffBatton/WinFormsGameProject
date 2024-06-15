@@ -1,0 +1,51 @@
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\NEW BALL GAME2.exe
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\NEW BALL GAME2.deps.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\NEW BALL GAME2.runtimeconfig.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WindowsFormsGame.Form1.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW_BALL_GAME2.Properties.Resources.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.GenerateResource.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfoInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfo.cs
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.CoreCompileInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\NEW BALL GAME2.genruntimeconfig.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.exe
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.deps.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.runtimeconfig.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW_BALL_GAME2.Properties.Resources.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.GenerateResource.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfoInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfo.cs
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.CoreCompileInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\refint\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.genruntimeconfig.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\ref\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW_BALL_GAME2.Window.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.exe
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.deps.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.runtimeconfig.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\bin\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW_BALL_GAME2.Window.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW_BALL_GAME2.Properties.Resources.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.GenerateResource.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfoInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.AssemblyInfo.cs
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.csproj.CoreCompileInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\refint\NEW BALL GAME2.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\NEW BALL GAME2.genruntimeconfig.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\NEW_BALL_GAME\obj\Debug\net8.0-windows\ref\NEW BALL GAME2.dll

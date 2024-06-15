@@ -1,0 +1,50 @@
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WindowsFormsGame.Form1.resources
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Vitalii\Desktop\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WindowsFormsGame.Form1.resources
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\yhhh\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WindowsFormsGame.Form1.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\havch\OneDrive\Рабочий стол\NewBallGame_GUI\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
